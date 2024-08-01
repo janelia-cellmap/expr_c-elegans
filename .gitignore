@@ -3,5 +3,6 @@ dacapo_files
 !dacapo_files/stats
 run_logs
 daisy_logs
-prediction/daisy_logs
-prediction/prediction_logs
+*/daisy_logs
+*/prediction_logs
+mlflow_tmp
