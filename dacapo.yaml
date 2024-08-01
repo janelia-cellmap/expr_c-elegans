@@ -1,0 +1,9 @@
+# compute_context:
+#   config:
+#     billing: cellmap
+#     num_cpus: 20
+#     num_gpus: 1
+#     queue: gpu_tesla
+#   type: Bsub
+runs_base_dir: /groups/cellmap/cellmap/zouinkhim/c-elegen/dacapo_files
+type: files
