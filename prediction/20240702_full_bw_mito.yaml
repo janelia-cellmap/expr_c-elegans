@@ -1,0 +1,13 @@
+output_folder : /nrs/cellmap/zouinkhim/predictions/c-elegen/20240702_full_bw
+input : "/nrs/cellmap/data/jrc_c-elegans-bw-1/jrc_c-elegans-bw-1_normalized.zarr"
+in_dataset: "recon-1/em/fibsem-uint8/s1"
+roi: "[0:10000,0:10000,0:10000]"
+workers: 2
+
+runs :
+  c_elegen_bw_op50_mito_setup04_0_v:
+    output:  "0:mito"
+    checkpoint: "400000"
+  c_elegen_bw_op50_mito_setup04_1_v:
+    output:  "0:mito"
+    checkpoint: "400000"

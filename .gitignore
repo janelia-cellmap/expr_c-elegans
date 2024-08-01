@@ -1,0 +1,7 @@
+dacapo_files
+!dacapo_files/configs
+!dacapo_files/stats
+run_logs
+daisy_logs
+prediction/daisy_logs
+prediction/prediction_logs

@@ -1,0 +1,13 @@
+output_folder : /nrs/cellmap/zouinkhim/predictions/c-elegen/bw/
+input : "/nrs/cellmap/data/jrc_c-elegans-bw-1/jrc_c-elegans-bw-1_normalized.zarr"
+in_dataset: "recon-1/em/fibsem-uint8/s1"
+# roi: "[200000:210000,100000:110000,10000:20000]"
+workers: 4
+
+runs :
+  c_elegen_bw_op50_ld_scratch_0:
+    output:  "0:ld"
+    checkpoint: "300000"
+  # c_elegen_bw_op50_ld_scratch_1:
+  #   output:  "0:ld"
+  #   checkpoint: "300000"
