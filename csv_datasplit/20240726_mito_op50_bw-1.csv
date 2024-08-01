@@ -1,0 +1,8 @@
+train,/nrs/cellmap/data/jrc_c-elegans-op50-1/jrc_celegans-op50-1_normalized.zarr,recon-1/em/fibsem-uint8/,/nrs/cellmap/data/jrc_c-elegans-op50-1/staging/groundtruth.zarr,crop521/mito/
+train,/nrs/cellmap/data/jrc_c-elegans-op50-1/jrc_celegans-op50-1_normalized.zarr,recon-1/em/fibsem-uint8/,/nrs/cellmap/data/jrc_c-elegans-op50-1/staging/groundtruth.zarr,crop532/mito/
+train,/nrs/cellmap/data/jrc_c-elegans-op50-1/jrc_celegans-op50-1_normalized.zarr,recon-1/em/fibsem-uint8/,/nrs/cellmap/data/jrc_c-elegans-op50-1/staging/groundtruth.zarr,crop533/mito/
+train,/nrs/cellmap/data/jrc_c-elegans-op50-1/jrc_celegans-op50-1_normalized.zarr,recon-1/em/fibsem-uint8/,/nrs/cellmap/data/jrc_c-elegans-op50-1/staging/groundtruth.zarr,crop535/mito/
+train,/nrs/cellmap/data/jrc_c-elegans-bw-1/jrc_c-elegans-bw-1_normalized.zarr,recon-1/em/fibsem-uint8/,/nrs/cellmap/data/jrc_c-elegans-bw-1/staging/groundtruth.zarr,crop519/mito/
+train,/nrs/cellmap/data/jrc_c-elegans-bw-1/jrc_c-elegans-bw-1_normalized.zarr,recon-1/em/fibsem-uint8/,/nrs/cellmap/data/jrc_c-elegans-bw-1/staging/groundtruth.zarr,crop541/mito/
+val,/nrs/cellmap/data/jrc_c-elegans-op50-1/jrc_celegans-op50-1_normalized.zarr,recon-1/em/fibsem-uint8/,/nrs/cellmap/data/jrc_c-elegans-op50-1/staging/groundtruth.zarr,crop535/mito/
+val,/nrs/cellmap/data/jrc_c-elegans-bw-1/jrc_c-elegans-bw-1_normalized.zarr,recon-1/em/fibsem-uint8/,/nrs/cellmap/data/jrc_c-elegans-bw-1/staging/groundtruth.zarr,crop519/mito/
